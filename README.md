@@ -10,7 +10,7 @@
 Soy un profesional apasionado por la innovación y la tecnología, actualmente estudiante en UNIR. Me comprometo con la excelencia y la resolución creativa de problemas. Estoy emocionado por seguir aprendiendo, creciendo y poner en práctica mis habilidades en tus proyectos.
 
   ## 📩 Contactame
-  ¡No lo dudes! El café corre por mi cuenta ☕. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  <p>¡No lo dudes! El café corre por mi cuenta ☕. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></p>
   <p align="left" >
       <a href="mailto:mcplinio.15@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
         <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
