@@ -1,7 +1,7 @@
 <h2 align="center"> Hola, Soy Plinio Mosquera 🤚. </h2>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1QooYSEVdeKmDxXseIhBkpqWZ1unGAckk/view?usp=sharing" target="_blank" rel="noreferrer"><img src="https://drive.google.com/file/d/1QooYSEVdeKmDxXseIhBkpqWZ1unGAckk/view?usp=sharing" alt="my banner"></a>
+  <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/file/d/1QooYSEVdeKmDxXseIhBkpqWZ1unGAckk/view?usp=sharing" alt="my banner"></a>
 </p>
 
 <h2 align="center"> ¡Soy Estudiante de Informática 💻, y apasionado por la tecnologia! </h2>
