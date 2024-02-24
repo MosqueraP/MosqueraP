@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://github.com/MosqueraP/MosqueraP/assets/100236783/7f00f37a-0587-4484-bb72-a82ad7c908aa" alt="my banner"></a>
 </p>
-<h2 align="center"> ¡Soy Estudiante de Informática 💻, apasionado por la tecnologia y salir a trotar!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
+<h2 align="center"> ¡Soy Estudiante de Informática 💻, apasionado por la tecnologia y salir a trotar! </h2>
 
 > Oye, sabias que.
 
