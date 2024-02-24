@@ -1,8 +1,13 @@
 <h2 align="center"> Hola, Soy Plinio Mosquera 🤚. </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/file/d/1QooYSEVdeKmDxXseIhBkpqWZ1unGAckk/view?usp=sharing" alt="my banner"></a>
+  <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://github.com/MosqueraP/MosqueraP/assets/100236783/6d381dad-2aba-4cda-aa16-4f27b1b54057" alt="my banner"></a>
 </p>
+
+![Encabezado Banner Github](https://github.com/MosqueraP/MosqueraP/assets/100236783/6d381dad-2aba-4cda-aa16-4f27b1b54057)
+
+
+
 
 <h2 align="center"> ¡Soy Estudiante de Informática 💻, y apasionado por la tecnologia! </h2>
 
@@ -20,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
