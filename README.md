@@ -29,8 +29,8 @@ Soy un profesional apasionado por la innovación y la tecnología, actualmente e
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📈 Estadísticas de GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plinio-isidro-mosquera&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosqueraP&show_icons=true&theme=tokyonight)
 
 ## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plinio-isidro-mosquera&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosqueraP&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
