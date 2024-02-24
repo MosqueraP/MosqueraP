@@ -31,6 +31,6 @@ Soy un profesional apasionado por la innovación y la tecnología, actualmente e
 ## 📈 Estadísticas de GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosqueraP&show_icons=true&theme=tokyonight)
 
-## ⌨️ Languages 
+## ⌨️ Lenguajes 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosqueraP&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
