@@ -6,6 +6,7 @@
 <h2 align="center"> ¡Soy Estudiante de Informática 💻, y apasionado por la tecnologia y salir a trotar! </h2>
 
 > Oye, sabias que.
+
 Soy un profesional apasionado por la innovación y la tecnología, actualmente estudiante en UNIR. Me comprometo con la excelencia y la resolución creativa de problemas. Estoy emocionado por seguir aprendiendo, creciendo y poner en práctica mis habilidades en tus proyectos.
 
   ## 📩 Contactame
