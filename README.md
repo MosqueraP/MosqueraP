@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 align="center"> Hola, Soy Plinio Mosquera 🤚. </h2>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1QooYSEVdeKmDxXseIhBkpqWZ1unGAckk/view?usp=sharing" target="_blank" rel="noreferrer"><img src="https://drive.google.com/file/d/1QooYSEVdeKmDxXseIhBkpqWZ1unGAckk/view?usp=sharing" alt="my banner"></a>
+</p>
+
+<h2 align="center"> ¡Soy Estudiante de Informática 💻, y apasionado por la tecnologia! </h2>
 
 <!--
 **MosqueraP/MosqueraP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
