@@ -1,7 +1,7 @@
 <h2> Hola 🤚. </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://github.com/MosqueraP/MosqueraP/assets/100236783/7f00f37a-0587-4484-bb72-a82ad7c908aa" alt="my banner"></a>
+  <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://github.com/MosqueraP/MosqueraP/assets/100236783/696d1dec-4fa5-40e3-9712-c148b0564d67" alt="my banner"></a>
 </p>
 <h2 align="center"> ¡Soy Estudiante de Informática 💻, apasionado por la tecnologia y salir a trotar! </h2>
 
@@ -15,9 +15,6 @@ Soy un profesional apasionado por la innovación y la tecnología, actualmente e
       <a href="mailto:mcplinio.15@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
         <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://github.com/MosqueraP/MosqueraP/assets/100236783/696d1dec-4fa5-40e3-9712-c148b0564d67"  width="45"></a>
 </p>
-
-![Banner Github](https://github.com/MosqueraP/MosqueraP/assets/100236783/696d1dec-4fa5-40e3-9712-c148b0564d67)
-
 
 ## 💼 Habilidades técnicas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
