@@ -1,4 +1,4 @@
-<h2> Hola , soy <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"> Plinio🤚. </h2>
+<h2> Hola , soy <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"> Plinio🤚 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://github.com/MosqueraP/MosqueraP/assets/100236783/696d1dec-4fa5-40e3-9712-c148b0564d67" alt="my banner"></a>
