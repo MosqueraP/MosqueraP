@@ -43,20 +43,20 @@ Soy un profesional apasionado por la innovación y la tecnología, actualmente e
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="#" title="Go to Source">
+     <a href="https://github.com/MosqueraP" title="Go to Source">
         <img align="center" width=100% src="assets/parroquia.png"   alt="imagen" /></a>
       </p>
     <p align="center">
-      <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/MosqueraP" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="#" title="Go to Source">
+     <a href="https://github.com/MosqueraP" title="Go to Source">
         <img align="center" width=100% src="assets/Cafetiera.png"   alt="imagen" /></a>
       </p>
     <p align="center">
-      <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="imagen" /></a>
+      <a href="https://github.com/MosqueraP"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="imagen" /></a>
     </p>       
 </td>
   
@@ -66,12 +66,17 @@ Soy un profesional apasionado por la innovación y la tecnología, actualmente e
         <img align="center" width=100% src="assets/Ciudades.png"   alt="imagen" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/MosqueraP" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="imagen" /></a>
+      <a href="https://github.com/MosqueraP" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@MosqueraP" /></a>
     </p>       
-</td>
-  
+</td>  
 </tr>
 </table>
+</div>
+
+<p align="left">
+      <a href="https://github.com/MosqueraP" target="blank"><img align="center" src="👨🏻‍💻" alt="MosqueraP"/></a>
+</p>       
+
 
 <!-- Estadisticas GitHub -->
 ## 📈 Estadísticas de GitHub
