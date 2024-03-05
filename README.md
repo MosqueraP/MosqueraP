@@ -43,30 +43,30 @@ Soy un profesional apasionado por la innovación y la tecnología, actualmente e
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/MosqueraP/proyecto-parroquia" title="Go to Source">
+     <a href="https://github.com/MosqueraP/proyecto-parroquia" target="_blank" title="Go to Source">
         <img align="center" width=100% src="assets/parroquia.png"   alt="Parroquia" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/MosqueraP/proyecto-parroquia" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/MosqueraP/proyecto-parroquia" target="_blank" ><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/MosqueraP/lacafetiera" title="Go to Source">
-        <img align="center" width=100% src="assets/Cafetiera.png"   alt="La cafetiera" /></a>
+     <a href="https://github.com/MosqueraP/lacafetiera" target="_blank" title="Go to Source">
+        <img align="center" width=100% src="assets/Cafetiera.png"  alt="La cafetiera" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/MosqueraP/lacafetiera"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="imagen" /></a>
+      <a href="https://github.com/MosqueraP/lacafetiera" target="_blank" ><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="imagen" /></a>
     </p>       
 </td>
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/MosqueraP/proyecto-ciudades" title="Go to Source">
+     <a href="https://github.com/MosqueraP/proyecto-ciudades" target="_blank" title="Go to Source">
         <img align="center" width=100% src="assets/Ciudades.png"   alt="Ciudade" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/MosqueraP/proyecto-ciudades" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@MosqueraP" /></a>
+      <a href="https://github.com/MosqueraP/proyecto-ciudades" target="_blank" ><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@MosqueraP" /></a>
     </p>       
 </td>  
 </tr>
@@ -74,7 +74,7 @@ Soy un profesional apasionado por la innovación y la tecnología, actualmente e
 </div>
 
 <p align="left">
-      <a href="https://github.com/MosqueraP" target="blank"><img align="center" src="👨🏻‍💻" alt="MosqueraP"/></a>
+      <a href="https://github.com/MosqueraP" target="_blank" ><img align="center" src="👨🏻‍💻" alt="MosqueraP"/></a>
 </p>       
 
 
