@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="blank" rel="noreferrer"><img src="https://i.postimg.cc/x1jYMpkY/Desarrollador-backend-Java-Spring-boot-Sql.png" alt="my banner"></a>
 </p>
-Soy desarrollador backend apasionado por la tecnología, actualmente estudiante de Ingeniería Informática en UNIR. Me enfoco en construir soluciones web eficientes, escalables y seguras usando tecnologías como Java, Spring Boot, Python, SQL  y Django.
+Soy desarrollador backend apasionado por la tecnología, actualmente estudiante de Ingeniería Informática en UNIR. Me enfoco en construir soluciones web eficientes, escalables y seguras usando tecnologías como Java, Spring Boot, Python, SQL  y Django. <br>
 
 ✅ Experiencia desarrollando plataformas transaccionales de alto tráfico  
 ✅ Integración de APIs RESTful y microservicios  
@@ -13,11 +13,16 @@ Soy desarrollador backend apasionado por la tecnología, actualmente estudiante 
 
   ## 📩 Contactame
   ¡No lo dudes! El café corre por mi cuenta ☕.
-  <p align="left" >
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcplinio.15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/plinio-mosquera-developer/)
+[![Portfolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://tusitio.com)
+  
+<!-- 
+<p align="left" >
   <a href="mailto:mcplinio.15@gmail.com?Subject=I%20want%20propose%20you%20something" target="blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
   <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>      
   <a href="https://mosquerap.github.io/website/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"  width="45"></a>    
-</p><br>
+</p> --><br>
 
 <!-- habilidades tectnica -->
 ## 💼 Tecnologías y herramientas
