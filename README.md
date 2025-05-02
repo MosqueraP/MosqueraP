@@ -1,13 +1,13 @@
-<h2> Hola, soy <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="blank" rel="noreferrer"> Plinio🤚 </h2>
-
+<!--  <h2> Hola, soy <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="blank" rel="noreferrer"> Plinio🤚 </h2>-->
 <p align="center">
   <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="blank" rel="noreferrer"><img src="https://i.postimg.cc/x1jYMpkY/Desarrollador-backend-Java-Spring-boot-Sql.png" alt="my banner"></a>
 </p>
-<h2 align="center"> ¡Soy Estudiante de Informática 💻, apasionado por la tecnologia y salir a trotar! </h2>
+Soy desarrollador backend apasionado por la tecnología, actualmente estudiante de Ingeniería Informática en UNIR. Me enfoco en construir soluciones web eficientes, escalables y seguras usando tecnologías como Java, Spring Boot, Python, SQL  y Django.
 
-> Oye, sabias que.
-
-Soy un profesional apasionado por la innovación y la tecnología, actualmente estudiante en UNIR. Me comprometo con la excelencia y la resolución creativa de problemas. Estoy emocionado por seguir aprendiendo, creciendo y poner en práctica mis habilidades en tus proyectos.
+✅ Experiencia desarrollando plataformas transaccionales de alto tráfico  
+✅ Integración de APIs RESTful y microservicios  
+✅ Bases de datos: PostgreSQL, MySQL, Oracle  
+✅ Control de versiones con Git y metodologías ágiles (Scrum)
 
 <!-- contacto -->
 
@@ -20,7 +20,7 @@ Soy un profesional apasionado por la innovación y la tecnología, actualmente e
 </p><br>
 
 <!-- habilidades tectnica -->
-## 💼 Habilidades técnicas
+## 💼 Tecnologías y herramientas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -33,6 +33,9 @@ Soy un profesional apasionado por la innovación y la tecnología, actualmente e
 ![Postman](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
+## ☕ Sobre mí
+
+Apasionado por el aprendizaje continuo, la tecnología y salir a trotar 🏃‍♂️. Siempre listo para nuevos retos, colaborar en equipo y aportar soluciones con impacto real.
 
 
 <!-- algunos proyectos -->
