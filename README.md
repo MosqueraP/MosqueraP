@@ -2,7 +2,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/plinio-isidro-mosquera/" target="blank" rel="noreferrer"><img src="https://i.postimg.cc/x1jYMpkY/Desarrollador-backend-Java-Spring-boot-Sql.png" alt="my banner"></a>
 </p>
-Soy desarrollador backend apasionado por la tecnología, actualmente estudiante de Ingeniería Informática en UNIR. Me enfoco en construir soluciones web eficientes, escalables y seguras usando tecnologías como Java, Spring Boot, Python, SQL  y Django. <br>
+Soy desarrollador backend apasionado por la tecnología, actualmente estudiante de Ingeniería Informática en UNIR. Me enfoco en construir soluciones web eficientes, escalables y seguras usando tecnologías como Java, Spring Boot, Python, SQL  y Django.
+ <br> <br>
 
 ✅ Experiencia desarrollando plataformas transaccionales de alto tráfico  
 ✅ Integración de APIs RESTful y microservicios  
