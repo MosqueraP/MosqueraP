@@ -5,10 +5,6 @@
 Ingeniero Informático y desarrollador Full Stack con fuerte enfoque en backend, especializado en el desarrollo de APIs REST, plataformas web escalables y soluciones orientadas al rendimiento utilizando Java, Spring Boot, Python, SQL y Angular.
  <br> <br>
 
-✅ Experiencia desarrollando plataformas transaccionales de alto tráfico  
-✅ Integración de APIs RESTful y microservicios  
-✅ Bases de datos: PostgreSQL, MySQL, Oracle  
-✅ Control de versiones con Git y metodologías ágiles (Scrum)
 
 <!-- contacto -->
 
